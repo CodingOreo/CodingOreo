@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Malik!
-- 👀 I’m interested in: Ethical Hacking, web development, 
-- 🌱 I’m currently learning ... Networking, JSON, 
+- 👀 I’m interested in: Ethical Hacking, web development, app development and game devlopment
+- 🌱 I’m currently learning ... Networking, JSON, Python
 - 💞️ I’m looking to collaborate on ... Small Projects or Gaming projects 
 - 📫 How to reach me ... email: codingfox17@gmail.com 
 
